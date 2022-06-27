@@ -3,10 +3,11 @@
  * Complejidad Espacial -> O(  )
  * Espacio Auxiliar -> O(  )
  */
-function selectionSort(arreglo) {
+function selectionSort (arreglo) {
   let longitud = arreglo.length;
 
   for (let i = 0; i < longitud; i++) {
+    // O(n)
     let minimo = i;
     for (let j = i + 1; j < longitud; j++) {
       if (arreglo[j] < arreglo[minimo]) {

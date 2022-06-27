@@ -1,7 +1,7 @@
 {
-  "name": "complejidad-algoritmica-js",
+  "name": "algorithm-study",
   "version": "1.0.0",
-  "description": "Repositorio del Curso de Complejidad Algorítmica con JavaScript (Platzi)",
+  "description": "A repository in which I will be studying and practicing algorithms complexity and data structures",
   "main": ".",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,6 @@
     "algorithms",
     "escuela-desarrollo-web"
   ],
-  "author": "Marcelo Arias",
-  "license": "ISC",
-  "homepage": "https://platzi.com/cursos/complejidad-js"
+  "author": "yosefleanb@gmail.com",
+  "license": "ISC"
 }
